@@ -31,7 +31,7 @@ function MyChart() {
     }
   }, []);
 
-  return <div id="chart1" style={{ width: '100%', height: '400px' }}></div>;
+  return <div id="chart2" style={{ width: '100%', height: '400px' }}></div>;
 }
 
 export default MyChart;
